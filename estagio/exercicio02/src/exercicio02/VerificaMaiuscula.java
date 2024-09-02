@@ -21,7 +21,7 @@ public class VerificaMaiuscula {
 		}
 		
 		if (numLetrasA == 0) {
-			System.out.println("A letra 'A' não apareceu nenhuma vez");
+			System.out.println("A letra 'A' nao apareceu nenhuma vez");
 		}
 		else {
 			System.out.println("A letra 'A' apareceu " + numLetrasA + " Vez(es)");
