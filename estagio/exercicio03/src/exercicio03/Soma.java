@@ -10,7 +10,8 @@ public class Soma {
 			soma = soma + k;
 		}
 		System.out.println(soma);
-						
+			
 	}
 
+	//O RESULTADO E 77
 }
